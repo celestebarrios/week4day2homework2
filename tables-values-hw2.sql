@@ -112,13 +112,13 @@ VALUES (
 );
 
 SELECT * 
-FROM ticket
+FROM Tickets
 
 SELECT * 
-FROM movie
+FROM Movies
 
 SELECT * 
-FROM customer
+FROM Customers
 
 SELECT *
-FROM concession
+FROM Concessions
